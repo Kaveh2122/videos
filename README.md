@@ -9,3 +9,5 @@ Building the Agentic Economy on Arc: VibeCard
 Scaling Institutional DeFi
 Circle Developer Grants: From idea to funded
 Replay: Arc Enterprise & DeFi Hackathon Spotlight: Chariot - Crosschain Collateral Lending Protocol on Arc
+Arc Studio: Buenos Aires
+Arc Day One Spotlight: Simplifying Stablecoin Transactions with Blockradar
