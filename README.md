@@ -11,3 +11,11 @@ Circle Developer Grants: From idea to funded
 Replay: Arc Enterprise & DeFi Hackathon Spotlight: Chariot - Crosschain Collateral Lending Protocol on Arc
 Arc Studio: Buenos Aires
 Arc Day One Spotlight: Simplifying Stablecoin Transactions with Blockradar
+Event Replay: Welcome to Arc
+Arc Day One Spotlight: Instant Global Payments for Remote Workers with Hurupay
+Arc Day One Spotlight: Fast and Predictable Onchain Agentic Commerce with Crossmint
+Roundtable: Arc's Core Design Features
+Event Replay: Trustless USDC Agents on Arc #
+Jeremy Allaire: Arc Public Testnet is live #
+AI Agents on Arc with USDC #
+Event Replay: Day One Architect: Crossmint #
