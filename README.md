@@ -19,3 +19,18 @@ Event Replay: Trustless USDC Agents on Arc #
 Jeremy Allaire: Arc Public Testnet is live #
 AI Agents on Arc with USDC #
 Event Replay: Day One Architect: Crossmint #
+Morpho x Arc featuring Merlin Egalite, Co-Founder of Morpho
+Circle Agent Stack Quickstart - financial infrastructure for the agentic economy.
+Replay: Arc Enterprise & DeFi Hackathon Spotlight: Chariot - Crosschain Collateral Lending Protocol on Arc
+Scaling Institutional DeFi
+Architect Technical Office Hours 4/30/26
+ArcShop with Elton: Unified Balance Kit for Crosschain USDC Flows
+ArcShop with HJ: Building Chain Agnostic Apps with Circle Gateway and Circle Wallets
+Arc Enterprise & DeFi Hackathon Spotlight: Crumb - Gasless USDC Nanopayments and settlement on Arc
+The Arc developer experience: Hear from early builders at Sequence, Dynamic, and BuFi
+App Kits Developer Office Hours: Bridge, Swap, Send, and Monetization
+The Arc developer experience: Hear from early builders at Sequence, Dynamic, and BuFi
+Arc Enterprise & DeFi Hackathon Spotlight: Blink Nanopayment Insurance
+Why Circle Built Arc: The Vision and Key Features
+Event Replay: Introducing Arc House and Architects
+Event Replay: Building an Agentic Economy on Arc with RSoft Agentic Bank
