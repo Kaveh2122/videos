@@ -80,3 +80,6 @@ Roundtable: Arc Global Connection
 Arc: Rebuilding Money on the internet
 Jeremy Allaire: Arc Public Testnet is live
 Event Replay: Finality You Can Count On
+What are Stablecoins?
+Arc: Developer Overview with Circle’s Lead Product Manager Sanket Jain
+Discover the Vision: Hear from Arc's Founding Team
